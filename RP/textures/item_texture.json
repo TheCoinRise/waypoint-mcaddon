@@ -1,0 +1,9 @@
+{
+    "resource_pack_name": "waypoint_addon",
+    "texture_name": "atlas.items",
+    "texture_data": {
+        "waypoint_device": {
+            "textures": "textures/items/waypoint_device"
+        }
+    }
+}

@@ -1,0 +1,24 @@
+{
+    "format_version": "1.21.0",
+    "minecraft:item": {
+        "description": {
+            "identifier": "factory:waypoint_device",
+            "menu_category": {
+                "category": "equipment",
+                "group": "itemGroup.name.navigation"
+            }
+        },
+        "components": {
+            "minecraft:display_name": {
+                "value": "Waypoint Device"
+            },
+            "minecraft:icon": {
+                "textures": {
+                    "default": "compass_item"
+                }
+            },
+            "minecraft:max_stack_size": 1,
+            "minecraft:allow_off_hand": false
+        }
+    }
+}

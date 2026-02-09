@@ -1,0 +1,28 @@
+{
+    "format_version": "1.12",
+    "minecraft:recipe_shaped": {
+        "description": {
+            "identifier": "factory:waypoint_device_recipe"
+        },
+        "tags": ["crafting_table"],
+        "pattern": [
+            "IRI",
+            "RCR",
+            "IRI"
+        ],
+        "key": {
+            "I": {
+                "item": "minecraft:cobblestone"
+            },
+            "R": {
+                "item": "minecraft:dirt"
+            },
+            "C": {
+                "item": "minecraft:stick"
+            }
+        },
+        "result": {
+            "item": "factory:waypoint_device"
+        }
+    }
+}
