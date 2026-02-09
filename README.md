@@ -16,5 +16,15 @@ A Minecraft Bedrock Addon that adds a personal Waypoint Device.
 4. Copy the `BP` and `RP` folders to your Minecraft `development_behavior_packs` and `development_resource_packs` folders respectively.
    - Windows Path: `%LOCALAPPDATA%\Packages\Microsoft.MinecraftUWP_8wekyb3d8bbwe\LocalState\games\com.mojang\`
 
+## Crafting Recipe
+
+Craft the Waypoint Device at a crafting table:
+
+```
+[Cobblestone] [Dirt]   [Cobblestone]
+[Dirt]        [Stick]  [Dirt]
+[Cobblestone] [Dirt]   [Cobblestone]
+```
+
 ## Texture
 Place a texture file named `waypoint_device.png` in `RP/textures/items/`.
