@@ -1,5 +1,7 @@
 # Waypoint Addon
 
+![Waypoint Addon](waypoint-logo.png)
+
 A Minecraft Bedrock Addon that adds a personal Waypoint Device.
 
 ## Features
